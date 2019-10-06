@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class HelloWorldForTesting {
    public static void main(String[] args) {
       // Prints "Hello, World" in the terminal window.
 	  for(int i=0;i<10;i++){
